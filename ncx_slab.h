@@ -4,7 +4,6 @@
 
 #include "ncx_core.h"
 #include "ncx_lock.h"
-#include "ncx_log.h"
 
 typedef struct ncx_slab_page_s  ncx_slab_page_t;
 
